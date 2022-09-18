@@ -1,0 +1,23 @@
+{
+  "name": "glowing-goggles",
+  "version": "1.0.0",
+  "description": "Week 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorganWoods618/glowing-goggles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorganWoods618/glowing-goggles/issues"
+  },
+  "homepage": "https://github.com/MorganWoods618/glowing-goggles#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "inquirer": "8.2.4"
+  }
+}
